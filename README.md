@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**KirillRusacoff/KirillRusacoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Kirill - Web Debeloper with HTML, CSS, JavaScript skills. 
+How I work is a long story 🤔 , but in a simple way: High-quality and operational layout of websites based on layouts. I work in compliance with deadlines and fulfillment of the TS. Pure cross-browser valid code. BEM, Adaptability, Pixel perfect, Flexbox, HTML5, CSS3, JS, Jquery, SASS/SCSS, Bootstrap, Page speed, Lighthouse...Whew! Something like that 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🌱 Working with me is comfortable and I am always in touch (Telegram, Whatsapp, Email, phone) 🌱
+
+
+My Portfolio - https://kirillrusacoff.github.io/my-portfolio
+
+
+
+
+- 🔭 I’m currently working on ... Now i'm a free 👋
+
