@@ -5,7 +5,7 @@
 
 
 
-I'm a Web Debeloper with HTML, CSS, JavaScript skills. 
+I'm a Web Developer with HTML, CSS, JavaScript skills. 
 
 
 
