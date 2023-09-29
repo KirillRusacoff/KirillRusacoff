@@ -5,7 +5,7 @@
 
 
 
-I'm a Web Developer with HTML, CSS, JavaScript, PHP, MySQL skills.
+My skills are HTML, CSS, JavaScript, PHP, MySQL skills.
 
 
 
