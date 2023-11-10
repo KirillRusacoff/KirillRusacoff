@@ -26,7 +26,7 @@ How I work is a long story 🤔 , but in a simple way: High-quality and operatio
 ********************
 
 
-<b>My Portfolio - https://kirillrusacoff.github.io/my-portfolio/</b>
+<b>My Portfolio - https://kirillrusacoff.github.io/main-portfolio/</b>
 
 
 ********************
