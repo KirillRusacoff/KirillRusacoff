@@ -5,7 +5,7 @@
 
 
 
-My skills are HTML, CSS, JavaScript, PHP, MySQL skills.
+My skills are HTML, CSS, JavaScript, React and have some experience in PHP, SQL.
 
 
 
