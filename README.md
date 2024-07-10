@@ -5,11 +5,11 @@
 
 
 
-My skills are <b>HTML, CSS, JavaScript</b> and have some experience in <b>PHP, SQL</b>.
+My skills are <b>HTML, CSS, JavaScript, PHP, SQL</b>.
 
 
 
-How I work is a long story 🤔 , but in a simple way... I am a web developer. The direction of my work is Frontend. I make small but interesting applications. I make up websites using the Figma/Photoshop layout and fill them with "life". 😄
+How I work is a long story 🤔 , but in a simple way... I am a web developer. The direction of my work is Full-stack. I make small but interesting applications. I make up websites using the Figma/Photoshop layout and fill them with "life". 😄
 
 
 
